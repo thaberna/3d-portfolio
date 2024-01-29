@@ -1,8 +1,5 @@
-# React + Vite
+# 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de prueba reaalizado con React (Vite) y React Three Fiber como renderer de la librería Threejs. También se ha importado la librería DREI que contiene gran cantidad de helpers para poderlos utilizar con Fiber.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/thaberna/3d-portfolio/assets/145760610/490cd431-306a-4199-a3b6-640c3e4d58b7)
